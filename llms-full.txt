@@ -1702,7 +1702,7 @@ Remote MCP memory server - one markdown memory every AI reads and writes via OAu
 
 Remote MCP capability layer that connects coding agents to 1000+ apps and 400+ Skills through one OAuth setup, with vaulted credentials and an audit trail.
 
-- URL: https://github.com/Aident-AI/aident-skill
+- URL: https://aident.ai
 - Language: TypeScript
 - Provider: Aident AI
 - Official: yes

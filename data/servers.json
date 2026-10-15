@@ -1517,7 +1517,7 @@
   },
   {
     "name": "Aident Loadout",
-    "url": "https://github.com/Aident-AI/aident-skill",
+    "url": "https://aident.ai",
     "description": "Remote MCP capability layer that connects coding agents to 1000+ apps and 400+ Skills through one OAuth setup, with vaulted credentials and an audit trail.",
     "category": "ai-agents-and-memory",
     "language": "TypeScript",
